@@ -1,3 +1,3 @@
-## Table of Contents
+## Redux and Create-React-app
 
-Adding Redux to create-react-app with 2 actions, a GET request and a POST request, using jsonplaceholder
+Redux added to create-react-app with 2 actions, a GET request and a POST request, using jsonplaceholder. The post request is done by submitting data through a form.
